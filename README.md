@@ -1,5 +1,5 @@
 # project-presentations
-This repository contains presentations of projects I've undertaken over the years. Some folders contain supplementary videos; these videos were originally included within the presentation but did not parse when the presentation got converted to  a pdf. Projects documented within this repository include:
+This repository contains presentations of projects I've undertaken over the years!
 
 - **Applications of Ant Colony Optimization** (see [this repository](https://github.com/jacobe90/aco-applications) for code and  more details)
 - **Bayesian Optimization For Birdflow Hyperparameter Tuning** The culmination of work during a Spring 2023 independent study with Professor Daniel Sheldon; a presentation detailing the results of using bayesian optimization to select hyperparameters for BirdFlow, a framework for generating probabilisitc models of bird migratory behavior. To learn more about the technical details of BirdFlow, see [this paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14052)! To try out BirdFlow for yourself, see [the BirdFlowR package](https://birdflow-science.github.io/BirdFlowR/articles/BirdFlowR.html).
